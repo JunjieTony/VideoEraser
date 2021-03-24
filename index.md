@@ -1,4 +1,4 @@
-## Welcome to Video Eraser Support Webpage
+## Welcome to Video Retouch Support Webpage
 
 
 Video Retouch - Trim & Crop Videos or Photos, remove unwanted people, remove unsightly pimples, clean up the perfect shot.  
