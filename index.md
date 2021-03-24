@@ -1,10 +1,16 @@
 ## Welcome to Video Eraser Support Webpage
 
 
-Video Eraser, remove unwanted Logo, icon, watermark from the video.
+Video Retouch - Trim & Crop Videos or Photos, remove unwanted people, remove unsightly pimples, clean up the perfect shot.  
 
-- First, import video to the app.
-- Second, Select the watermark part of the video.
-- Third, Press Start to clean the watermark.
+Features:
+- Crop Video, Trim Video 
+- Remove Objects: Select the parts to be removed, intelligently restore photos and videos
+- Add watermark: add Emoji, Stickers, Text to Videos.
+- Change Video's Cover
+- Reverse Video
+- Rotate Video
+- Stitching video
+- Change Video Rate
 
 contact us: junjie_ruan@163.com
