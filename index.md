@@ -1,14 +1,15 @@
-## Welcome to Video Retouch Support Webpage
+## Welcome to Photo Retouch Support Webpage
 
 
-Video Retouch - Trim & Crop Videos or Photos, remove unwanted people, remove unsightly pimples, clean up the perfect shot.  
+Photo Retouch - Remove unwanted people, debris and text, clean up the perfect shot.  
 
 Features:
-- Crop Video, Trim Video 
-- Remove Objects: Select the parts to be removed, intelligently restore photos and videos
+
+- Remove Objects: Select the parts to be removed, intelligently restore photos.
 - Add watermark: add Emoji, Stickers, Text to Videos.
-- Change Video's Cover
 - Reverse Video
+- Crop Video, Trim Video 
+- Change Video's Cover
 - Rotate Video
 - Stitching video
 - Change Video Rate
